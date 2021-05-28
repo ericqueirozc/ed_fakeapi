@@ -19,9 +19,9 @@
       "id": 4,
       "data": "05/12/2021",
       "number":"12312312"
-    },
+    }
   ],
-  "produtos": {
+  "produtos": [{
     "id":"1",
     "description": "Arroz 5kg",
     "barras":"6723487384762",
@@ -56,5 +56,5 @@
     "description": "Farinha 500g",
     "barras":"67231233122",
     "number":"12332121321"
-  },
+  }]
 }
