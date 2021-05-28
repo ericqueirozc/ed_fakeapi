@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "stocks": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
+  "products": {
     "name": "typicode"
   }
 }
