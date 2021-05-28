@@ -19,7 +19,43 @@
         "number":"12312312"
       }
   ],
-  "products": {
-    "name": "typicode"
-  }
+  "products": [
+  {
+      "id":"1",
+      "description": "Arroz 5kg",
+      "barras":"6723487384762",
+      "number":"1232321321"
+    }  ,
+    {
+      "id":"1",
+      "description": "Arroz 5kg",
+      "barras":"612333184762",
+      "number":"11233121"
+    },
+    {
+      "id":"1",
+      "description": "Feijão 1kg",
+      "barras":"672117384762",
+      "number":"13121231321"
+    },
+    {
+      "id":"1",
+      "description": "Paçoca 500g",
+      "barras":"67231284762",
+      "number":"12123321"
+    },
+    {
+      "id":"1",
+      "description": "Detergente ype 250ml",
+      "barras":"6723487384762",
+      "number":"1232321321"
+    },
+    {
+      "id":"1",
+      "description": "Farinha 500g",
+      "barras":"67231233122",
+      "number":"12332121321"
+    }
+  
+  ]
 }
